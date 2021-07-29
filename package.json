@@ -285,7 +285,7 @@
     "react-dom": ">=16.9.0"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://localhost:4873/"
   },
   "bundlesize": [
     {
